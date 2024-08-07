@@ -1,0 +1,20 @@
+{
+    "name": "moorgh/mrweb",
+	"type": "library",
+	"description": "@mrwebservice api library in php",
+	"keywords": ["mrweb","freeapi","mrwebservice","api"],
+	 "license": "MIT",
+    "authors": [
+        {
+            "name": "moorgh",
+            "email": "vboxvm512@gmail.com",
+            "homepage": "https://mrapiweb.ir/"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "Mrweb": "src/"
+        }
+    }
+}
