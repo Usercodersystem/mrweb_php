@@ -1,0 +1,15 @@
+{
+    "name": "mrweb/mrweb",
+    "description": "@mrwebservice php library",
+    "version": "1.7.1",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "moorgh",
+            "email": "vboxvm5122gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.4"
+    }
+}
